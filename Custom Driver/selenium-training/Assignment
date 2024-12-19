@@ -1,0 +1,16 @@
+Question 1:
+Implement custom WebDriver classes for Firefox and Edge based on the operating system to complement the existing Chrome WebDriver.
+Ensure they support core functionalities like launching the browser, navigation, and element interaction, and integrate them into
+the current testing framework with comprehensive test cases and documentation.
+
+
+Question 2:
+Implement a Selenium WebDriver script that utilizes Java Streams to extract and filter text from web elements (e.g., links) on a webpage.
+The script should demonstrate the use of map and filter to transform and collect the data, showcasing efficient data handling in a web automation context.
+
+
+Question 3:
+Create a utility class similar to CSVReader that reads locators from an Excel sheet.
+The script should retrieve locators based on specified actions and platforms, ensuring it handles different data formats and integrates
+Apache POI or a similar library for Excel file manipulation.
+

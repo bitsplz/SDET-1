@@ -1,0 +1,3 @@
+locators,Web,Android,iOS
+login,<loginbtnWeb>,<loginbtnAndroid>,<loginbtnIos>
+dropdown,<dropdownWeb>,<dropdownAndroid>,<dropdownIos>
